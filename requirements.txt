@@ -57,3 +57,4 @@ tswift
 instantmusic
 html2text
 youtube-search-python
+spotipy>=2.25.1 # not directly required, pinned by Snyk to avoid a vulnerability
